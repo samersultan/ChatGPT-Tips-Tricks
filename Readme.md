@@ -1,7 +1,3 @@
-Here is a clean, polished, GitHub-ready **README.md** for your “ChatGPT Tips & Tricks” project.
-If you'd like badges, a table of contents, or a downloadable PDF version, I can add that too.
-
----
 
 # 📘 ChatGPT Tips & Tricks
 
