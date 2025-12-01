@@ -203,13 +203,4 @@ ChatGPT is also great for:
 
 ---
 
-# 🔥 If you want, I can generate a **“ChatGPT Master Prompt”** custom for YOU
 
-One prompt you can paste at the start of any conversation, and ChatGPT will know:
-
-✔ your job
-✔ your environment (Azure, Intune, SRX, PKWARE, etc.)
-✔ your preferred output format
-✔ your style
-
-Just say **“Yes, create it”** and I’ll build a powerful master prompt for you.
